@@ -1,5 +1,8 @@
 {
   "name": "farmalert1",
-  "app_id": "",
-  "type": "ionic-angular"
+  "app_id": "9dc1e7c8",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
 }
