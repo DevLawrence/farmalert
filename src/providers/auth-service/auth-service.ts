@@ -4,12 +4,7 @@ import 'rxjs/add/operator/map';
 
 let apiUrl = "http://localhost/PHP-Slim-Restful/api/";
 
-/*
-  Generated class for the AuthServiceProvider provider.
 
-  See https://angular.io/docs/ts/latest/guide/dependency-injection.html
-  for more info on providers and Angular DI.
-*/
 @Injectable()
 export class AuthServiceProvider {
 
